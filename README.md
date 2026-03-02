@@ -37,7 +37,7 @@ Here you’ll find projects that demonstrate:
 
 - Real-world dataset analysis  
 - SQL problem solving and case studies  
-- Interactive dashboards (Power BI / Tableau)  
+- Interactive dashboards  
 - End-to-end analytics workflows  
 - Analytical storytelling and insights  
 
@@ -62,7 +62,7 @@ Here you’ll find projects that demonstrate:
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
 
