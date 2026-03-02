@@ -1,4 +1,4 @@
-# Hi, I’m Xiomara 👋  
+## Hi, I’m Xiomara 👋  
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
